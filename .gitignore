@@ -3,6 +3,7 @@
 *.png
 *.xml
 *.html
+*.json
 
 # system generated folders/files
 __pycache__/
